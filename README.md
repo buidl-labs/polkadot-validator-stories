@@ -13,3 +13,5 @@ This public repository serves as a place to curate and document the stories of t
   iv. Fill out the template with the details of your project.
   v. Once you have completed the application, click on "create new pull request".
   vi. Submit the pull request for review.
+2. **Changes to the format, suggestions, requests**
+We invite suggestions and requests to this repository from the community in the form of issues.

@@ -14,9 +14,9 @@ This public repository serves as a place to curate and document the stories of t
  
      iii. Label the file as "validator_name.md".
   
-      iv. Fill out the template with the details of your project.
+      iv. Fill out the template with the details of your story.
   
-      v. Once you have completed the application, click on "create new pull request".
+      v. Once you have completed the article, click on "create new pull request".
   
       vi. Submit the pull request for review.
   

@@ -23,3 +23,6 @@ This public repository serves as a place to curate and document the stories of t
 2. **Changes to the format, suggestions, requests**
 
     We invite suggestions and requests to this repository from the community in the form of issues.
+    
+# Inspiration
+We were inspired to create this repository by the following article - [Q&A session - Three Cosmos Validators Share Their Experience](https://blog.cosmos.network/q-a-session-three-cosmos-validators-share-their-experience-ce6501a5d61c)
